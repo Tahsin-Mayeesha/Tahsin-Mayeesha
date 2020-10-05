@@ -5,6 +5,7 @@
   <p>In summer 2019 I trained a machine translation system for bangla-english.I’ve also won Banglalink SGD hackathon recently with team Quirkybits with a legal assistant chatbot project in early 2020. <p>
   <p>I’ve worked with Tensorflow Hub team for Google Summer of Code 2019 on pretrained embedding exporters, demo notebook with bangla text classification and a prototype ULMFiT tensorflow-hub module. Last year I worked with Berkman Klein Center of Internet and Society, a research lab in Harvard for Google Summer of Code 2018 on Mediaviz, a network visualization package for automatically scaling force-based networks. <p>
   <p> Previously I’ve worked at Cramstack as a junior data scientist on electricy data for a government project. In my free time I participate in Kaggle and write in “Learning Machine Learning”, my publication in Medium.<p>
+    <p> Aside from machine learning I've worked on Human Computer Interaction. One of my workshop paper, "Applying Text Mining to Protest Stories as Voice against Media Censorship", CSCW 2018, Solidarity Across Borders Workshop. on student protest stories has been published in CSCW 2018, Solidarity Across Borders Workshop. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin-mayeesha" alt="tahsin-mayeesha" /> </p>
 
