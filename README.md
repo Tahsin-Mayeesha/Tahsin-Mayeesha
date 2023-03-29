@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tahsin-Mayeesha</h1>
 
-  <p>Currently I'm working as a data scientist in Human Computer Interaction research lab in North South University on a funded project from Bill and Melinda Gates Foundation to study digital financial inclusion of Bangladeshi women. I’ve graduated from Computer Science and Engineering major (AI trail) in Fall 2020. </p>
-  <p>My thesis project was on building deep learning models for question answering systems in Bangla(Paper accepted in Journal of Information and Telecommunication, Taylor and Francis, September 2020). <p>
-  <p>In summer 2019 I trained a machine translation system for bangla-english.I’ve also won Banglalink SGD hackathon recently with team Quirkybits with a legal assistant chatbot project in early 2020. <p>
-  <p>I’ve worked with Tensorflow Hub team for Google Summer of Code 2019 on pretrained embedding exporters, demo notebook with bangla text classification and a prototype ULMFiT tensorflow-hub module. Last year I worked with Berkman Klein Center of Internet and Society, a research lab in Harvard for Google Summer of Code 2018 on Mediaviz, a network visualization package for automatically scaling force-based networks. <p>
-  <p> Previously I’ve worked at Cramstack as a junior data scientist on electricy data for a government project. In my free time I participate in Kaggle and write in “Learning Machine Learning”, my publication in Medium.<p>
-    <p> Aside from machine learning I've worked on Human Computer Interaction. One of my workshop paper, "Applying Text Mining to Protest Stories as Voice against Media Censorship", CSCW 2018, Solidarity Across Borders Workshop. on student protest stories has been published in CSCW 2018, Solidarity Across Borders Workshop. </p>
+Currently, I'm working as a research assistant in North South University in the project "Bengali NLP: Application in Literature and Natural Language Generation" for bengali question generation and answering. I've recently collaborated on multiple AI ethics related projects for global south. 
+
+In 2022 I finished a remote predoctoral program Fatima Fellowship for research on analyzing cultural biases in multilingual pretrained models. Before that I worked with Pi School of AI as an AI Fellow with the sponsor company Translated on language identification for multilingual sentences. Previously I worked in NSU HCI DIAL Lab, project Alor Akash as a data scientist to analyze sentiment from qualitative research interview transcripts. 
+
+I've graduated from Computer Science and Engineering major (North South University) in Fall 2020. My thesis project was on building deep learning models for question answering systems in Bengali where I trained multilingual BERT models on synthetic data. My technical interests are mostly around deep learning, NLP and speech. During my school years I’ve worked with Tensorflow Hub team for Google Summer of Code 2019, Berkman Klein Center of Internet and Society(research lab in Harvard) for Google Summer of Code 2018 and Cramstack(Bangladeshi ML consulting startup) in 2017.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin-mayeesha" alt="tahsin-mayeesha" /> </p>
 
-- 🔭 I’m currently working on text analysis of interview transcripts
+- 🔭 Check out my papers in my [google scholar](https://scholar.google.com/citations?user=MRDAGP8AAAAJ&hl=en) profile - 
+ 
+- 🌱 I’m currently learning **Model deployment, reproducibility, NLP, AI fairness and ethics **
 
-- 🌱 I’m currently learning **Model deployment, reproducibility, NLP theory**
-
-- 👨‍💻 All of my projects are available at [https://tahsin-mayeesha.github.io/](https://tahsin-mayeesha.github.io/)
+- 👨‍💻 Some of my projects are available at [https://tahsin-mayeesha.github.io/](https://tahsin-mayeesha.github.io/)
 
 - 📝 I regulary write articles on [https://medium.com/@tahsin_mayeesha](https://medium.com/@tahsin_mayeesha)
 
