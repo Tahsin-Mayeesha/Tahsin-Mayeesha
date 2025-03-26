@@ -31,6 +31,3 @@ When I am not immersed in research, I enjoy watching anime, reading manga or boo
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahsin-mayeesha&layout=compact" alt="tahsin-mayeesha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahsin-mayeesha&show_icons=true" alt="tahsin-mayeesha" /></p>
