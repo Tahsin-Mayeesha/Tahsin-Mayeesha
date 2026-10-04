@@ -18,7 +18,19 @@ When I am not immersed in research, I enjoy watching anime, reading manga or boo
 
 - 📝 I regulary write articles on [https://medium.com/@tahsin_mayeesha](https://medium.com/@tahsin_mayeesha)
 
-- 📫 How to reach me **tasmiah.tahsin@northsouth.edu**
+- 📫 How to reach me **tasmiahtahsinmayeesha@gmail.com**
+
+## Open Dataset and Models
+
+| **Resource** | **Type** | **What's inside** |
+|---|---|---|
+| [**Bengali-SQuAD**](https://huggingface.co/datasets/Tahsin-Mayeesha/Bengali-SQuAD) | Dataset | Bengali SQuAD dataset for question answering and question generation research |
+| [**MisdirectVQA-200**](https://huggingface.co/datasets/Tahsin-Mayeesha/MisdirectVQA-200) | Dataset | 200-question diagnostic benchmark for evaluating text-only adversarial misdirection in vision-language models |
+| [**vqa_bn**](https://huggingface.co/datasets/Tahsin-Mayeesha/vqa_bn) | Dataset | Bengali VQG dataset based on VQA v2.0, with 220K translated training QA pairs and 150K translated validation QA pairs |
+| [**t5-end2end-questions-generation**](https://huggingface.co/Tahsin-Mayeesha/t5-end2end-questions-generation) | Model | T5-based end-to-end question generation model |
+| [**squad-bn-mt5-base2**](https://huggingface.co/Tahsin-Mayeesha/squad-bn-mt5-base2) | Model | mT5-based Bengali question generation model trained on Bengali SQuAD |
+| [**wav2vec2-bn-300m**](https://huggingface.co/Tahsin-Mayeesha/wav2vec2-bn-300m) | Model | 300M-parameter Wav2Vec2 model for Bengali automatic speech recognition |
+| [**Bangla Question Generation**](https://huggingface.co/spaces/Tahsin-Mayeesha/Bangla-Question-Generation) | Space | Interactive demo for Bengali question generation |
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
