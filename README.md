@@ -1,22 +1,23 @@
-Hi! I've started my Ph.D. in Information Science, with a concentration in Data Science, in University of North Texas from Fall 2025. In Bangladesh, I was working as a researcher focused on NLP, HCI and AI policymaking. There I worked with EBLICT-Dream71 joint collaboration on Bangla VPA (Virtual Private Assistant) project funded by the Bangladesh government where we build Llama based RAG models for making public administration related information accessible to citizens.
+## About Me
 
-Prior to this role, I worked as a HCI researcher for a year in Design,Inclusion & Access Lab(DIAL) in North South University with my superviser Dr. Nova Ahmed in multiple projects in education and AI policy-making. The key projects are 1)"My Freedom in Light", where we investigated challenges of women in computing with fictional inquiry and co-design workshop faciliating participatory design from female students in computer science, and 2) "Designing Accountable and Ethical AI for the Next Billions: Considering the Needs of South Asian Marginalized Communities" - where we studied current state of AI ethics related policies and perspectives with a focus on South Asia and Bangladesh . Publications from these projects have been accepted to ICTD 2024, ACM Compass 2024 and Ubicomp 2024.
+Hi! I’m Tasmiah Tahsin Mayeesha, a Ph.D. researcher in **Information Science (Data Science)** at the **University of North Texas**, where I started in Fall 2025. My current research interests are broadly centered around **AI safety, evaluation, multilingual NLP, multimodal models, and the robustness of foundation models**.
 
-Simultaneously, I worked on NLP research as a senior research assistant with supervision of Dr. M. Rashedur Rahman in the project "Bengali NLP : Application in Literature and Natural Language Generation" on multiple topics including answer-aware question generation from passages, and generating questions with/without guidance from images. I also finished a predoctoral fellowship in Fatima Fellowship on a NLP project with mentor Benjamin Muller on investigating cultural biases like formality in multilingual generative models. Publications from these projects were accepted to journals and NLP Conferences (EMNLP 2023, MM-NLG Workshop held with INLG 2023).
+Before starting my Ph.D., I worked as a researcher in Bangladesh across **NLP, HCI, and AI policy**. I worked with the **EBLICT–Dream71** collaboration on **[Jiggasha AI](https://jiggasha.ai/)**, to curate the a Bangladesh government-funded public Bangla virtual assistant developed to make public-administration information more accessible to citizens. 
 
-I've graduated from Computer Science and Engineering (North South University) in 2020. My thesis project was on building deep learning models for question answering systems in Bengali where I trained multilingual BERT models on synthetic data. During my undergrad I worked with Tensorflow Hub team for Google Summer of Code 2019 with mentor Vojtech Bardiovský, Berkman Klein Center of Internet and Society with mentor Hal Roberts for Google Summer of Code 2018 and Cramstack in 2017.
+Concurrently, I also worked as an HCI researcher at the **Design, Inclusion & Access Lab (DIAL)** at North South University, working with Dr. Nova Ahmed on projects spanning participatory design, education, and responsible AI. My work included studying the experiences of women in computing through fictional inquiry and co-design, as well as examining AI ethics and governance from the perspectives of South Asian and Bangladeshi communities. This work resulted in publications at venues including **ACM ToCHI, ICTD, ACM COMPASS, and UbiComp**.
 
-When I am not immersed in research, I enjoy watching anime, reading manga or books, and taking care of my cats.🐈‍⬛
+Alongside my HCI work, I was a senior research assistant with Dr. M. Rashedur Rahman on **Bengali NLP and Natural Language Generation**, where I worked on answer-aware question generation, Bengali question generation, and multimodal question generation using images. I also completed a predoctoral fellowship at the [Fatima Institute for Global AI Research](https://fatima.institute/), where we evaluated formality bias in multilingual models across multiple languages. This work resulted in a publication in EMLNLP. 
 
-- 🔭 Check out my papers in my [google scholar](https://scholar.google.com/citations?user=MRDAGP8AAAAJ&hl=en) profile - 
- 
-- 🌱 I’m currently learning **Model deployment, reproducibility, NLP, AI fairness and ethics **
+My earlier work in NLP began during my undergraduate studies in **Computer Science and Engineering at North South University**, where I graduated in 2020. My thesis focused on Bengali question answering using multilingual BERT and synthetic data. During my undergraduate years, I also participated in **Google Summer of Code** with the TensorFlow Hub team and worked with the **Berkman Klein Center for Internet & Society**.
 
-- 👨‍💻 Some of my projects are available at [https://tahsin-mayeesha.github.io/](https://tahsin-mayeesha.github.io/)
+These days, I’m particularly interested in understanding **how and why foundation models fail**—especially when reasoning is affected by adversarial inputs, language, context, or modality—and in building better ways to evaluate those failures.
 
-- 📝 I regulary write articles on [https://medium.com/@tahsin_mayeesha](https://medium.com/@tahsin_mayeesha)
+Outside research, I enjoy anime, manga, books, and taking care of my cats. 🐈‍⬛
 
-- 📫 How to reach me **tasmiahtahsinmayeesha@gmail.com**
+- 🔭 **Papers:** [Google Scholar](https://scholar.google.com/citations?user=MRDAGP8AAAAJ&hl=en)
+- 👨‍💻 **Website:** [tahsin-mayeesha.github.io](https://tahsin-mayeesha.github.io/)
+- 📝 **Writing:** [Substack](https://tasmiahtahsinmayeesha.substack.com/)
+- 📫 **Contact:** **tasmiahtahsinmayeesha@gmail.com**
 
 ## Open Dataset and Models
 
