@@ -8,8 +8,6 @@ I've graduated from Computer Science and Engineering (North South University) in
 
 When I am not immersed in research, I enjoy watching anime, reading manga or books, and taking care of my cats.🐈‍⬛
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tahsin-mayeesha" alt="tahsin-mayeesha" /> </p>
-
 - 🔭 Check out my papers in my [google scholar](https://scholar.google.com/citations?user=MRDAGP8AAAAJ&hl=en) profile - 
  
 - 🌱 I’m currently learning **Model deployment, reproducibility, NLP, AI fairness and ethics **
