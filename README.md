@@ -26,6 +26,7 @@ Outside research, I enjoy anime, manga, books, and taking care of my cats. 🐈�
 | [**Bengali-SQuAD**](https://huggingface.co/datasets/Tahsin-Mayeesha/Bengali-SQuAD) | Dataset | Bengali SQuAD dataset for question answering and question generation research |
 | [**MisdirectVQA-200**](https://huggingface.co/datasets/Tahsin-Mayeesha/MisdirectVQA-200) | Dataset | 200-question diagnostic benchmark for evaluating text-only adversarial misdirection in vision-language models |
 | [**vqa_bn**](https://huggingface.co/datasets/Tahsin-Mayeesha/vqa_bn) | Dataset | Bengali VQG dataset based on VQA v2.0, with 220K translated training QA pairs and 150K translated validation QA pairs |
+| [**tofu_bn**](https://huggingface.co/datasets/Tahsin-Mayeesha/tofu-bn) | Dataset | LLM-unlearning dataset - English–Bangla machine-translated adaptation of *TOFU: A Task of Fictitious Unlearning for LLMs*  with full, forget and retain splits. |
 | [**t5-end2end-questions-generation**](https://huggingface.co/Tahsin-Mayeesha/t5-end2end-questions-generation) | Model | T5-based end-to-end question generation model |
 | [**squad-bn-mt5-base2**](https://huggingface.co/Tahsin-Mayeesha/squad-bn-mt5-base2) | Model | mT5-based Bengali question generation model trained on Bengali SQuAD |
 | [**wav2vec2-bn-300m**](https://huggingface.co/Tahsin-Mayeesha/wav2vec2-bn-300m) | Model | 300M-parameter Wav2Vec2 model for Bengali automatic speech recognition |
