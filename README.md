@@ -32,6 +32,12 @@ Outside research, I enjoy anime, manga, books, and taking care of my cats. üêà‚
 | [**wav2vec2-bn-300m**](https://huggingface.co/Tahsin-Mayeesha/wav2vec2-bn-300m) | Model | 300M-parameter Wav2Vec2 model for Bengali automatic speech recognition |
 | [**Bangla Question Generation**](https://huggingface.co/spaces/Tahsin-Mayeesha/Bangla-Question-Generation) | Space | Interactive demo for Bengali question generation |
 
+## Blogposts / Interactive Articles
+
+| **Article** | **Type** | **Description** |
+|---|---|---|
+| [**Meena wants a laptop**](https://tahsin-mayeesha.github.io/meena-wants-a-laptop/) | Interactive article | An interactive research story combining two ACM papers on what women in Bangladesh need to learn, belong, and build a future in computing, featuring original research figures, participant quotations, and linked findings. |
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/tahsin_mayeesha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tahsin_mayeesha" height="30" width="40" /></a>
