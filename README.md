@@ -36,6 +36,7 @@ Outside research, I enjoy anime, manga, books, and taking care of my cats. 🐈�
 
 | **Article** | **Type** | **Description** |
 |---|---|---|
+| [**Governing AI in Emerging Economies**](https://tahsin-mayeesha.github.io/governing-ai-emerging-economies/) | Interactive article | Key findings and proposed approaches to AI ethics and governance in Bangladesh and South Asia, bringing together AI4Bangladesh and four related publications with original figures, interview evidence, and source citations. |
 | [**Meena wants a laptop**](https://tahsin-mayeesha.github.io/meena-wants-a-laptop/) | Interactive article | An interactive research story combining two ACM papers on what women in Bangladesh need to learn, belong, and build a future in computing, featuring original research figures, participant quotations, and linked findings. |
 | [**Voices, Power, and Policy: What Bangladesh’s First AI Ethics Study Reveals**](https://substack.com/home/post/p-164719205) | Blogpost | An inside look at the research journey—from field interviews to policymaker roundtables—that shaped Bangladesh’s first AI ethics report. |
 
